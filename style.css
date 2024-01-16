@@ -1,0 +1,17 @@
+body{
+  background_color: #040505;
+  color:#4a2f99;
+  font-family: Impact;
+}
+a.link {
+  color: #1a7f8f;
+  text-decoration-color: #1a7f8f;
+  font-family: "Comic Sans", sans;
+}
+a.visited {
+  color: #6e1748;
+  text-decoration-color: #6e1748
+}
+a.hover {
+cursor: pointer;
+}
